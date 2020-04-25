@@ -1,0 +1,21 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pytest = "*"
+coverage = "*"
+pytest-coverage = "*"
+
+[packages]
+google-auth = "*"
+flask = "*"
+flask-login = "*"
+cachecontrol = "*"
+requests = "*"
+flask-restplus = "*"
+werkzeug = "==0.16.1"
+
+[requires]
+python_version = "3.8"

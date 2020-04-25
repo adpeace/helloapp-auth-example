@@ -1,0 +1,6 @@
+helloapi/config.py
+*.pyc
+htmlcov
+.gitignore
+.vscode
+__pycache__

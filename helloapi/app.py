@@ -1,5 +1,5 @@
 from flask import Flask, request, jsonify
-from flask_restplus import Api, Resource, fields
+from flask_restx import Api, Resource, fields
 from flask_login import LoginManager, UserMixin, login_user, \
     login_required, logout_user
 from flask_login import current_user

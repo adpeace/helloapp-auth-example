@@ -14,8 +14,8 @@ flask = "*"
 flask-login = "*"
 cachecontrol = "*"
 requests = "*"
-flask-restplus = "*"
-werkzeug = "==0.16.1"
+flask-restx = "*"
+werkzeug = "*"
 
 [requires]
 python_version = "3.8"
